@@ -1,0 +1,23 @@
+{
+  "login_success": {
+    "username": "18231327985",
+    "password": "123456789",
+    "verify_code": "8888",
+    "msg": "登陆成功",
+    "status": 1
+  },
+  "login_wrong_username": {
+    "username": "18231327985s",
+    "password": "123456789",
+    "verify_code": "8888",
+    "msg": "账号不存在",
+    "status":-1
+  },
+  "login_wrong_password": {
+    "username": "18231327985",
+    "password": "7878878",
+    "verify_code": "8888",
+    "msg": "密码错误",
+    "status": -2
+  }
+}
